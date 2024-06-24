@@ -8,18 +8,18 @@ body {
   .container {
     background-color: rgb(218, 12, 12);
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
-    padding: 200px;
+    padding: 1cm;
     max-width: 600px;
     margin: 0 auto;
     border-radius: 5px;
-    margin-top: 50px;
+    margin-top: 40px;
   }
   
   h1 {
     font-size: 50px;
     text-align: center;
     margin-top: 0;
-    margin-bottom:70 px;
+    margin-bottom:30 px;
   }
   
   .form {
@@ -30,7 +30,7 @@ body {
   
   label {
     font-weight: bold;
-    margin-bottom: 50px;
+    margin-bottom: 20px;
    font-size:25px ;
   }
   label{
@@ -64,7 +64,7 @@ body {
   
   #result {
     margin-top: 20px;
-    font-size: 50px;
+    font-size: 40px;
     font-weight: bold;
     color: aqua;
   }
